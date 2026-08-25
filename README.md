@@ -19,6 +19,8 @@ HTML, CSS e JavaScript.
 evolução na programação. A ideia é aprender, praticar e construir
 projetos cada vez melhores.
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=CarlosMendes13)](https://github.com/stats-organization/github-stats-extended)
+
 📫 Contato
 
 • LinkedIn: www.linkedin.com/in/carlos-mendes-b68143260
