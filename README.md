@@ -1,12 +1,12 @@
 💻 Estudante e entusiasta de tecnologia
 
 📚 Atualmente estudando: 
-• HTML
-• CSS
-• JavaScript
-• Git e GitHub
-• Java
-• Programação Orientada a Objetos
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+- Java
+- Programação Orientada a Objetos
 
 🛠️ Projetos: 
 
