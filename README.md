@@ -15,8 +15,8 @@ evolução na programação. A ideia é aprender, praticar e construir
 projetos cada vez melhores.
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=CarlosMendes13&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=CarlosMendes13&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Estatísticas GitHub">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=CarlosMendes13&layout=compact&langs_count=5&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=CarlosMendes13&layout=compact&langs_count=5&theme=midnight-purple">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api?username=CarlosMendes13&show_icons=true&include_all_commits=true&theme=midnight-purple)](https://github-stats-extended.vercel.app/api?username=CarlosMendes13&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Estatísticas GitHub">
+  <img height="160em" src="https://github-stats-extended.vercel.app/api/top-langs?username=CarlosMendes13&layout=compact&langs_count=5&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=CarlosMendes13&layout=compact&langs_count=5&theme=midnight-purple">
 </div>
 
 📫 Contato
