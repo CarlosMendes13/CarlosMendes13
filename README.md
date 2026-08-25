@@ -1,6 +1,6 @@
 💻 Estudante e entusiasta de tecnologia
 
-📚 Atualmente estudando
+📚 Atualmente estudando: 
 • HTML
 • CSS
 • JavaScript
@@ -8,13 +8,13 @@
 • Java
 • Programação Orientada a Objetos
 
-🛠️ Projetos
+🛠️ Projetos: 
 
 🧮 Calculadora
 Calculadora inspirada no modelo do iPhone, desenvolvida com
 HTML, CSS e JavaScript.
 
-📈 Minha jornada
+📈 Minha jornada: 
 
 Utilizo este GitHub para registrar meus estudos, projetos e minha
 evolução na programação. A ideia é aprender, praticar e construir
@@ -22,6 +22,5 @@ projetos cada vez melhores.
 
 📫 Contato
 
-• LinkedIn
-• GitHub
-• E-mail
+• LinkedIn: www.linkedin.com/in/carlos-mendes-b68143260
+• E-mail: carloseduardo13062003@gmail.com
