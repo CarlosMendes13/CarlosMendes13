@@ -9,14 +9,12 @@
 - Programação Orientada a Objetos
 
 🛠️ Projetos: 
-
-🧮 Calculadora
-Calculadora inspirada no modelo do iPhone, desenvolvida com
+-🧮 Calculadora: Calculadora inspirada no modelo do iPhone, desenvolvida com
 HTML, CSS e JavaScript.
 
 📈 Minha jornada: 
 
-Utilizo este GitHub para registrar meus estudos, projetos e minha
+-Utilizo este GitHub para registrar meus estudos, projetos e minha
 evolução na programação. A ideia é aprender, praticar e construir
 projetos cada vez melhores.
 
