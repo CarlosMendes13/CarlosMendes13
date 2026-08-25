@@ -8,7 +8,8 @@
 - Java
 - Programação Orientada a Objetos
 
-🛠️ Projetos: 
+🛠️ Projetos:
+
 -🧮 Calculadora: Calculadora inspirada no modelo do iPhone, desenvolvida com
 HTML, CSS e JavaScript.
 
