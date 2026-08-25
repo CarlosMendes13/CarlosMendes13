@@ -1,15 +1,6 @@
-👋 Olá! Eu sou Carlos Mendes
-
 💻 Estudante e entusiasta de tecnologia
 
-🚀 Sobre mim
-
-Sou estudante e estou construindo minha jornada na área de tecnologia.
-Gosto de aprender na prática, criando projetos e buscando melhorar
-continuamente minhas habilidades.
-
 📚 Atualmente estudando
-
 • HTML
 • CSS
 • JavaScript
@@ -34,18 +25,3 @@ projetos cada vez melhores.
 • LinkedIn
 • GitHub
 • E-mail
-
-<!--
-**CarlosMendes13/CarlosMendes13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
